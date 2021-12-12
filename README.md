@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: intagram, linkedin, twitter...
 
   
-### KNOW MORE ABOUT ME>>>>
+### MY GITHUB STATS>>>>
 <p align="center"><a href="https://github.com/noob-hackers"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
