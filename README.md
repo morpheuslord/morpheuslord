@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### CONTACT ME>>>
 <p align="center">
-<a href="https://rebrand.ly/hckrgroups"><img title="linkedin" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://rebrand.ly/hckrgroups"><img title="linkedin" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
