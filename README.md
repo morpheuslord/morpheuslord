@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/morpheuslord_9034/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <a href="https://twitter.com/morpheuslord2"><img title="Twitter" src="https://img.shields.io/twitter/follow/morpheuslord2?style=for-the-badge"><a>
 </p>
+
+<p align="center">
+<a href="https://github.com/morpheuslord"><img title="morpheuslord" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morpheuslord&layout=compact"></a>
+</p>
