@@ -1,7 +1,6 @@
 ### Hellow my Fellow hackers 👋
 ![youtube ghub_banner](https://user-images.githubusercontent.com/70637311/145705425-616b5dba-e6bb-493c-8b47-fff9662a1e24.gif)
 
-**morpheuslord/morpheuslord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
