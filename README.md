@@ -9,16 +9,16 @@
 - 💬 Ask me about security related topics ...
 - 📫 How to reach me: intagram, linkedin, twitter...
   
-### MY GITHUB STATS>>>>
+## MY GITHUB STATS
 <p align="center"><a href="https://github.com/morpheuslord"><img title="MORPHEUSLORD" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-### TOP LANGS USED>>>
+## TOP LANGS USED
 <p align="center">
 <a href="https://github.com/morpheuslord"><img title="morpheuslord" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morpheuslord&layout=compact"></a>
 </p>
 
-### CONTACT ME>>>
+## CONTACT ME
 <p align="center">
 <a href="https://www.linkedin.com/in/chiranjeevi-g-33787521a/"><img title="linkedin" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.instagram.com/morpheuslord_9034/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
