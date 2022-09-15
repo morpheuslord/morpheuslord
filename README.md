@@ -1,4 +1,8 @@
-### Hellow my Fellow hackers 👋
+<h3 align="center">
+  Hello There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 ![youtube ghub_banner](https://user-images.githubusercontent.com/70637311/145705425-616b5dba-e6bb-493c-8b47-fff9662a1e24.gif)
 
 
