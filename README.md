@@ -10,8 +10,7 @@
 - 📫 How to reach me: intagram, linkedin, twitter...
   
 ## MY GITHUB STATS
-<p align="center"><a href="https://github.com/morpheuslord"><img title="MORPHEUSLORD" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## TOP LANGS USED
 <p align="center">
