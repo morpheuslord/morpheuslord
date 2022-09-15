@@ -21,7 +21,7 @@
 
 ## Activity
 
-[![morpheuslord activity](https://activity-graph.herokuapp.com/graph?username=morpheuslord&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![morpheuslord activity](https://activity-graph.herokuapp.com/graph?username=morpheuslord&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## TOP Languages
 <p>
