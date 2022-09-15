@@ -23,6 +23,7 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
+</details>
 
 ## TOP LANGS USED
 <p align="center">
