@@ -10,7 +10,7 @@
 - 📫 How to reach me: intagram, linkedin, twitter...
   
 ## MY GITHUB STATS
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?morpheuslord&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=morpheuslord=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 ## TOP LANGS USED
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morpheuslord)](https://github.com/anuraghazra/github-readme-stats)
