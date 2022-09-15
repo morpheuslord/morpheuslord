@@ -14,7 +14,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"  align="center"/>
 </p>
 ## TOP LANGS USED
-
+<p align="center">
+<img hight="180em" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&theme=tokyonight">
+</p>
 ## CONTACT ME
 <p align="center">
 <a href="https://www.linkedin.com/in/chiranjeevi-g-33787521a/"><img title="linkedin" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"></a>
