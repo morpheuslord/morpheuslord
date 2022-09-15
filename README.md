@@ -11,7 +11,7 @@
   
 ## MY GITHUB STATS
 <p align="center">
-<img hight="180em" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&theme=tokyonight">
+<img hight="180em" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&theme=dark">
 </p>
 ## TOP LANGS USED
 <p align="center">
