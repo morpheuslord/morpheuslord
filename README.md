@@ -13,9 +13,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## TOP LANGS USED
-<p align="center">
-<a href="https://github.com/morpheuslord"><img title="morpheuslord" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morpheuslord&layout=compact"></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
 ## CONTACT ME
 <p align="center">
