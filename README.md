@@ -34,7 +34,7 @@
 
 ## Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=morpheuslord&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![morpheuslord activity](https://activity-graph.herokuapp.com/graph?username=morpheuslord&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## TOP Languages
 <p>
