@@ -33,7 +33,7 @@
 </details>
 
 ## Activity
-[![morpheuslord github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=morpheuslord&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![morpheuslord github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=morpheuslord&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## TOP Languages
 <p>
