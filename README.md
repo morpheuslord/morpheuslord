@@ -1,64 +1,44 @@
-<h3 align="center">
-  Hello There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Hi 👋, I'm Chiranjeevi G</h1>
+<h3 align="center">Greetings and welcome to my GitHub profile. I am a highly motivated cybersecurity professional specializing in red team operations and security testing. My commitment to this field is unwavering, and I continuously strive to enhance my expertise and knowledge. Proficient in programming languages including C++, C, and Python, I possess a robust understanding of website security and application testing. I firmly believe in the significance of ongoing learning and skill refinement to maintain a leading edge in the realm of cybersecurity. Beyond my technical acumen, I am an active blogger, dedicated to producing insightful articles and blog posts on a range of cybersecurity subjects. Thank you for visiting my profile.</h3>
 
-![youtube ghub_banner](https://user-images.githubusercontent.com/70637311/145705425-616b5dba-e6bb-493c-8b47-fff9662a1e24.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=morpheuslord&label=Profile%20views&color=0e75b6&style=flat" alt="morpheuslord" /> </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCerUR7wpbXyFmTCMGciOV_w/featured"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/morpheuslord2"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://hackernoon.com/u/morpheuslord"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://morpheuslord.tk/upi.html"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-<br>
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morpheuslord" alt="morpheuslord" /></a> </p>
 
-- 🔭 I’m currently a student ...
-- 🌱 I’m currently learning offensive in security field ...
-- 👯 I’m looking to collaborate on hacking related topics and projects ...
-- 💬 Ask me about security related topics ...
-- 📫 How to reach me: intagram, linkedin, twitter...
-  
-## MY GITHUB STATS
-  <summary>💻 GitHub Profile Stats</summary>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=morpheuslord&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morpheuslord&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<p align="left"> <a href="https://twitter.com/morpheuslord2" target="blank"><img src="https://img.shields.io/twitter/follow/morpheuslord2?logo=twitter&style=for-the-badge" alt="morpheuslord2" /></a> </p>
 
-## Activity
-[![morpheuslord github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=morpheuslord&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🔭 I’m currently working on [GPT-Vuln_Analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer)
 
-## TOP Languages
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+- 🌱 I’m currently learning **BCA - Cybersecurity and also more about python automation**
+
+- 👯 I’m looking to collaborate on [HackBot](https://github.com/morpheuslord/HackBot)
+
+- 🤝 I’m looking for help with [CVE-llm_dataset](https://github.com/morpheuslord/CVE-llm_dataset)
+
+- 👨‍💻 All of my projects are available at [https://github.com/morpheuslord?tab=repositories](https://github.com/morpheuslord?tab=repositories)
+
+- 📝 I regularly write articles on [https://hackernoon.com/u/morpheuslord](https://hackernoon.com/u/morpheuslord)
+
+- 💬 Ask me about **flask, Red Team concepts**
+
+- 📫 How to reach me **morpheuslord@protonmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/morpheuslord2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="morpheuslord2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chiranjeevi g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiranjeevi g" height="30" width="40" /></a>
+<a href="/https://hackernoon.com/feed/u/morpheuslord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hackernoon.com/feed/u/morpheuslord" height="30" width="40" /></a>
 </p>
 
-## Frameworks
-<p>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## Database and Cloud hosting
-<p>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morpheuslord&show_icons=true&locale=en&layout=compact" alt="morpheuslord" /></p>
 
-## Software and tools
-<p>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>  
-</p>
- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&locale=en" alt="morpheuslord" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morpheuslord&" alt="morpheuslord" /></p>
