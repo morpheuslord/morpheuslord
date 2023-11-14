@@ -8,19 +8,12 @@
 <p align="left"> <a href="https://twitter.com/morpheuslord2" target="blank"><img src="https://img.shields.io/twitter/follow/morpheuslord2?logo=twitter&style=for-the-badge" alt="morpheuslord2" /></a> </p>
 
 - 🔭 I’m currently working on [GPT-Vuln_Analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer)
-
-- 🌱 I’m currently learning **BCA - Cybersecurity and also more about python automation**
-
+- 🌱 I’m currently learning **BCA - Cybersecurity and also more about Python automation**
 - 👯 I’m looking to collaborate on [HackBot](https://github.com/morpheuslord/HackBot)
-
 - 🤝 I’m looking for help with [CVE-llm_dataset](https://github.com/morpheuslord/CVE-llm_dataset)
-
 - 👨‍💻 All of my projects are available at [https://github.com/morpheuslord?tab=repositories](https://github.com/morpheuslord?tab=repositories)
-
 - 📝 I regularly write articles on [https://hackernoon.com/u/morpheuslord](https://hackernoon.com/u/morpheuslord)
-
 - 💬 Ask me about **flask, Red Team concepts**
-
 - 📫 How to reach me **morpheuslord@protonmail.com**
 
 ### Blogs posts
