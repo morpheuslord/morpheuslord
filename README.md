@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chiranjeevi G</h1>
 <h5 align="centre">Greetings and welcome to my GitHub profile. I am a highly motivated cybersecurity professional specializing in red team operations and security testing. My commitment to this field is unwavering, and I continuously strive to enhance my expertise and knowledge. Proficient in programming languages including C++, C, and Python, I possess a robust understanding of website security and application testing. I firmly believe in the significance of ongoing learning and skill refinement to maintain a leading edge in the realm of cybersecurity. Beyond my technical acumen, I am an active blogger, dedicated to producing insightful articles and blog posts on a range of cybersecurity subjects. Thank you for visiting my profile.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morpheuslord&label=Profile%20views&color=0e75b6&style=flat" alt="morpheuslord" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=morpheuslord&label=Profile%20views&color=0e75b6&style=flat" alt="morpheuslord" /> </p> 
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/morpheuslord.png)](https://tryhackme.com/p/morpheuslord)<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morpheuslord" alt="morpheuslord" /></a> </p>
 
@@ -37,5 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&locale=en" alt="morpheuslord" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morpheuslord&" alt="morpheuslord" /></p>
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/morpheuslord.png)](https://tryhackme.com/p/morpheuslord)<br>
