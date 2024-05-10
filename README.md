@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&locale=en" alt="morpheuslord" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morpheuslord&" alt="morpheuslord" /></p>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Morpheuslord)
