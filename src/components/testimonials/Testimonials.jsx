@@ -29,11 +29,11 @@ const data = [
 const Testimonials = () => {
     return (
         <section id='testimonials'>
-            <h5>Review from Lecturers</h5>
-            <h2>Testimonials</h2>
+            <h5>Reviews</h5>
+            <h2>Testimonials and Recommendations</h2>
 
             <Swiper className="container testimonials__container"
-                // install Swiper modules
+                //Install Swiper modules
                 modules={[Pagination]}
                 spaceBetween={40}
                 slidesPerView={1}
