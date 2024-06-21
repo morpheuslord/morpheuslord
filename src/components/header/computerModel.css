@@ -1,0 +1,247 @@
+/* computerModel.css */
+body {
+    margin: 0;
+    background-color: #F6C3BA;
+}
+
+.computer {
+    z-index: 1;
+    width: 150px;
+    height: 180px;
+    position: absolute;
+    left: calc(50% - 75px);
+    top: calc(50vh - 90px);
+    transform-style: preserve-3d;
+    transform-origin: center center;
+    transform: rotatex(-30deg) rotatey(45deg);
+}
+
+.screen,
+.screenbottom,
+.screenbottombottom,
+.keyboard,
+.keyboardkeys,
+.numpad {
+    z-index: 1;
+    width: 150px;
+    height: 130px;
+    position: absolute;
+    transform-style: preserve-3d;
+    transform-origin: center center;
+}
+
+.square {
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.front {
+    transform: translateZ(75px);
+    background-color: #c6b5a4;
+}
+
+.back {
+    transform: translateZ(-75px);
+    background-color: #dbc6b5;
+}
+
+.top {
+    transform: rotatex(90deg) translatez(75px);
+    background-color: #EEDEC8;
+    width: 100%;
+    height: 150px;
+}
+
+.left {
+    transform: rotatey(-90deg) translatez(55px);
+    background-color: #282828;
+}
+
+.right {
+    transform: rotatey(-90deg) translatez(-75px);
+    background-color: #c6b5a4;
+    padding: 15%;
+    box-sizing: border-box;
+}
+
+.intake {
+    width: 5%;
+    height: 80%;
+    float: left;
+    background-color: #B4A495;
+    margin: 0 2.5%;
+}
+
+.left1,
+.right1,
+.top1,
+.bottom1 {
+    width: 130px;
+    height: 110px;
+    transform: rotatey(-90deg) translatez(70px);
+    background-color: transparent;
+    border: solid 10px #4d4d4d;
+}
+
+.progressbar {
+    width: 50px;
+    height: 6px;
+    background-color: transparent;
+    position: absolute;
+    top: calc(50% - 7px);
+    left: calc(50% - 29px);
+    border: 2px solid #4EC456;
+}
+
+.progressbar:after {
+    content: "";
+    width: 60%;
+    height: 100%;
+    background-color: #4EC456;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.back1,
+.front1 {
+    width: 15px;
+    height: 110px;
+    background-color: #4d4d4d;
+    transform: translateZ(-65px) translateY(10px) translateX(5px);
+}
+
+.bottom1,
+.top1 {
+    transform: rotatex(90deg) translatez(-55px) translateX(5px);
+    background-color: #565656;
+    width: 15px;
+    height: 130px;
+}
+
+.screenbottom {
+    z-index: 0;
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    transform-style: preserve-3d;
+    transform-origin: center center;
+    transform: translateY(130px);
+}
+
+.screenbottombottom {
+    z-index: 2;
+    width: 130px;
+    height: 20px;
+    position: absolute;
+    transform-style: preserve-3d;
+    transform-origin: center center;
+    transform: translateY(170px) translateX(10px);
+}
+
+.bottom3 {
+    transform: rotatex(90deg) translatez(45px);
+    background-color: #65504d;
+    box-shadow: 1px 1px 0px #65504d, 2px 2px 0px #65504d, 3px 3px 0px #65504d, 4px 4px 0px #65504d, 5px 5px 0px #65504d, 6px 6px 0px #65504d, 7px 7px 0px #65504d, 8px 8px 0px #65504d, 9px 9px 0px #65504d, 10px 10px 0px #65504d, 11px 11px 0px #65504d, 12px 12px 0px #65504d, 13px 13px 0px #65504d, 14px 14px 0px #65504d, 15px 15px 0px #65504d, 16px 16px 0px #65504d, 17px 17px 0px #65504d, 18px 18px 0px #65504d, 19px 19px 0px #65504d, 20px 20px 0px #65504d, 21px 21px 0px #65504d, 22px 22px 0px #65504d, 23px 23px 0px #65504d, 24px 24px 0px #65504d, 25px 25px 0px #65504d, 26px 26px 0px #65504d, 27px 27px 0px #65504d, 28px 28px 0px #65504d, 29px 29px 0px #65504d;
+    width: 100%;
+    height: 130px;
+}
+
+.front3,
+.back3 {
+    transform: translateZ(65px);
+    background-color: #bcac9c;
+}
+
+.left3,
+.right3 {
+    transform: rotatey(-90deg) translatez(65px);
+    background-color: #d0bcac;
+}
+
+.keyboard {
+    z-index: 0;
+    width: 80px;
+    height: 20px;
+    position: absolute;
+    transform-style: preserve-3d;
+    transform-origin: center center;
+    transform: translateY(170px) translateX(-120px);
+}
+
+.keyboardkeys {
+    z-index: 0;
+    width: 60px;
+    height: 10px;
+    position: absolute;
+    transform-style: preserve-3d;
+    transform-origin: center center;
+    transform: translateY(160px) translateX(-110px) translateZ(-20px);
+}
+
+.numpad {
+    z-index: 0;
+    width: 60px;
+    height: 10px;
+    position: absolute;
+    transform-style: preserve-3d;
+    transform-origin: center center;
+    transform: translateY(160px) translateX(-110px) translateZ(45px);
+}
+
+.brownpart {
+    position: absolute;
+    width: 130px;
+    left: 10px;
+    top: 10px;
+    height: 20px;
+    background-color: #9e7063;
+}
+
+.disc {
+    position: absolute;
+    width: 30px;
+    left: 10px;
+    top: calc(50% - 2.5px);
+    height: 5px;
+    background-color: #282828;
+}
+
+.ui {
+    position: absolute;
+    left: calc(50% - 250px);
+    top: calc(50% - 200px);
+    z-index: 9999;
+    width: 500px;
+    height: 400px;
+}
+
+#rotatex {
+    position: absolute;
+    right: -150px;
+    top: 50%;
+    transform: rotate(270deg);
+}
+
+#rotatey {
+    position: absolute;
+    left: calc(50% - 150px);
+}
+
+input[type="range"] {
+    -webkit-appearance: none;
+    cursor: pointer;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 10px;
+    height: 10px;
+    background-color: #565656;
+}
