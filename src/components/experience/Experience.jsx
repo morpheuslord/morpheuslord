@@ -149,7 +149,7 @@ const Experience = () => {
                             <BsPatchCheckFill className='experience__details-icon' />
                             <div>
                                 <h4>Latex</h4>
-                                <small className='text-light'>Intermediate</small>
+                                <small className='text-light'>Advanced</small>
                             </div>
                         </article>
 
@@ -186,6 +186,13 @@ const Experience = () => {
                             <BsPatchCheckFill className='experience__details-icon' />
                             <div>
                                 <h4>Python Flask</h4>
+                                <small className='text-light'>Beginner</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Python Qt5</h4>
                                 <small className='text-light'>Beginner</small>
                             </div>
                         </article>
