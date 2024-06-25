@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morpheuslord&label=Profile%20views&color=0e75b6&style=flat" alt="morpheuslord" /> </p> 
 
+
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/morpheuslord.png)](https://tryhackme.com/p/morpheuslord)<br>
+[![CHEv12 Badge](https://github.com/morpheuslord/morpheuslord/assets/70637311/c51a4e6f-71bb-4c6a-a558-1cff9d35a1fb)](https://tryhackme.com/p/morpheuslord)<br>
+[![CND Badge](https://github.com/morpheuslord/morpheuslord/assets/70637311/a6585de1-8495-45c7-b8a7-0589e81eb2d6)](https://tryhackme.com/p/morpheuslord)<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morpheuslord" alt="morpheuslord" /></a> </p>
 
