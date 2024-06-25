@@ -2,6 +2,7 @@ import React from 'react'
 import './testimonials.css'
 import AVT1 from '../../assets/avatar1.jpg'
 import AVT2 from '../../assets/avatar2.jpg'
+import AVT3 from '../../assets/avatar3.jpg'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -22,6 +23,11 @@ const data = [
         avatar: AVT1,
         name: 'Saumay Srivastava - Colleague',
         review: 'I have known Chiranjeevi, from more than 3 years and his dedication to actively learn and evolve in the whole domain is commendable. Chiranjeevi is proficient in Recon, Linux based exploitation and Red team domains. I would highly recommend him for opportunities ahead!',
+    },
+    {
+        avatar: AVT3,
+        name: 'Shyam R - Lecturer and Client',
+        review: 'I am delighted to recommend chiranjeevi for his outstanding capabilities as a research writer specializing in cybersecurity. Over the course of our collaboration, chiranjeevi has consistently demonstrated exceptional expertise, dedication, and an ability to distill complex cybersecurity topics into clear, engaging, and insightful research outputs.',
     },
 
 ]
