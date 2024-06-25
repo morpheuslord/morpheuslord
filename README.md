@@ -5,8 +5,8 @@
 
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/morpheuslord.png)](https://tryhackme.com/p/morpheuslord)<br>
-[![CHEv12 Badge](https://github.com/morpheuslord/morpheuslord/assets/70637311/c51a4e6f-71bb-4c6a-a558-1cff9d35a1fb)](https://tryhackme.com/p/morpheuslord)<br>
-[![CND Badge](https://github.com/morpheuslord/morpheuslord/assets/70637311/a6585de1-8495-45c7-b8a7-0589e81eb2d6)](https://tryhackme.com/p/morpheuslord)<br>
+[<img src="https://github.com/morpheuslord/morpheuslord/assets/70637311/c51a4e6f-71bb-4c6a-a558-1cff9d35a1fb" width="100" height="100" alt="CEHv12 Badge">](https://www.eccouncil.org/)<br>
+[<img src="https://github.com/morpheuslord/morpheuslord/assets/70637311/a6585de1-8495-45c7-b8a7-0589e81eb2d6" width="100" height="100" alt="CND Badge">](https://www.eccouncil.org/)<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morpheuslord" alt="morpheuslord" /></a> </p>
 
