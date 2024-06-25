@@ -47,7 +47,7 @@ const Services = () => {
                     <ul className='service__list'>
                         <li>
                             <BsCheckLg className='service__list-icon' />
-                            <p><b>Certification </b>CEH V12</p>
+                            <p><b>Certification </b>CEH V12, CND V2</p>
                         </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />
