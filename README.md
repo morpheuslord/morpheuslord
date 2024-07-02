@@ -7,8 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=morpheuslord&label=Profile%20views&color=0e75b6&style=flat" alt="morpheuslord" />
 </p>
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/morpheuslord.png)](https://tryhackme.com/p/morpheuslord)
 <p align="center">
-  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/morpheuslord.png)](https://tryhackme.com/p/morpheuslord)
   <a href="https://www.eccouncil.org/">
     <img src="https://github.com/morpheuslord/morpheuslord/assets/70637311/c51a4e6f-71bb-4c6a-a558-1cff9d35a1fb" alt="CEHv12 Badge" width="100" height="100">
   </a>
