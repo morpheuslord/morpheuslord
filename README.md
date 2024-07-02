@@ -36,7 +36,7 @@
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/morpheuslord?tab=repositories)
 - 📝 I regularly write articles on [Hacker Noon](https://hackernoon.com/u/morpheuslord)
 - 💬 Ask me about **Flask, Red Team concepts**
-- 📫 How to reach me **morpheuslord@protonmail.com**
+- 📫 How to reach me **chiranjeevi.naidu@proton.me**
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
