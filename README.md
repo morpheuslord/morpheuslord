@@ -30,7 +30,6 @@
 </p>
 
 - 🔭 I’m currently working on [GPT-Vuln_Analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer)
-- 🌱 I’m currently learning **BCA - Cybersecurity and more about Python automation**
 - 👯 I’m looking to collaborate on [HackBot](https://github.com/morpheuslord/HackBot)
 - 🤝 I’m looking for help with [CVE-llm_dataset](https://github.com/morpheuslord/CVE-llm_dataset)
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/morpheuslord?tab=repositories)
