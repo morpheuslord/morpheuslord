@@ -50,7 +50,7 @@ const Research = () => {
                                 </div>
                                 <h3>{title}</h3>
                                 <div className="portfolio__item-cta">
-                                    <a href={github} className='btn' target='_blank'>View Paper</a>
+                                    <a href={github} className='btn' target='_blank' rel="noreferrer">View Paper</a>
                                 </div>
                             </article>
                         )
