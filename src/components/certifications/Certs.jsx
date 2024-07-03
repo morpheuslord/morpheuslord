@@ -22,7 +22,7 @@ const data = [
 
 const Certs = () => {
     return (
-        <section id='research'>
+        <section id='certifications'>
             <h5>My Recent Certifications</h5>
             <h2>Certifications</h2>
 
