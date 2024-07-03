@@ -9,10 +9,8 @@ import Portfolio from './components/portfolio/Portfolio'
 import Services from './components/services/Services'
 import Testimonials from './components/testimonials/Testimonials'
 import Research from './components/research/Research'
-/** 
- * Thêm vào dòng 24 để hiện Testimonials
- * <Testimonials />
-*/
+import Certs from './components/certifications/Certs'
+
 const App = () => {
     return (
         <>
@@ -21,8 +19,9 @@ const App = () => {
             <About />
             <Experience />
             <Services />
+            <Certs />
             <Portfolio />
-            <Research/>
+            <Research />
             <Testimonials/>
             <Contact />
             <Footer />

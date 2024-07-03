@@ -72,8 +72,8 @@ const data = [
 const Portfolio = () => {
     return (
         <section id='portfolio'>
-            <h5>My Recent Projects</h5>
-            <h2>Portfolio</h2>
+            <h5>My Recent Activity</h5>
+            <h2>Projects</h2>
 
             <div className="container portfolio__container">
                 {
@@ -85,7 +85,7 @@ const Portfolio = () => {
                                 </div>
                                 <h3>{title}</h3>
                                 <div className="portfolio__item-cta">
-                                    <a href={github} className='btn' target='_blank'>Github</a>
+                                    <a href={github} className='btn' target='_blank' rel="noreferrer">Github</a>
                                 </div>
                             </article>
                         )
