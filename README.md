@@ -59,7 +59,7 @@
 </p>
 
 ### Languages and Tools:
-<p align="left">
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
@@ -107,19 +107,19 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morpheuslord&show_icons=true&locale=en&layout=compact" alt="morpheuslord" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morpheuslord&show_icons=true&locale=en&layout=compact" alt="morpheuslord" />
 </p>
 <p align="center">
   <a href="https://github.com/morpheuslord">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morpheuslord&theme=radical" alt="Morpheuslord's GitHub Contribution"/>
   </a>
 </p>
-<p>&nbsp;
+<p  align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&locale=en" alt="morpheuslord" />
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morpheuslord&" alt="morpheuslord" />
 </p>
 
