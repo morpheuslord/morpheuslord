@@ -37,9 +37,11 @@
 - 💬 Ask me about **Flask, Red Team concepts**
 - 📫 How to reach me **chiranjeevi.naidu@proton.me**
 
-### Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <a href="https://github.com/morpheuslord">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morpheuslord&theme=radical" alt="Morpheuslord's GitHub Contribution"/>
+  </a>
+</p>
 
 ### Connect with me:
 <p align="left">
