@@ -37,11 +37,7 @@
 - 💬 Ask me about **Flask, Red Team concepts**
 - 📫 How to reach me **chiranjeevi.naidu@proton.me**
 
-<p align="center">
-  <a href="https://github.com/morpheuslord">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morpheuslord&theme=radical" alt="Morpheuslord's GitHub Contribution"/>
-  </a>
-</p>
+
 
 ### Connect with me:
 <p align="left">
@@ -114,7 +110,11 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morpheuslord&show_icons=true&locale=en&layout=compact" alt="morpheuslord" />
 </p>
-
+<p align="center">
+  <a href="https://github.com/morpheuslord">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morpheuslord&theme=radical" alt="Morpheuslord's GitHub Contribution"/>
+  </a>
+</p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=morpheuslord&show_icons=true&locale=en" alt="morpheuslord" />
 </p>
