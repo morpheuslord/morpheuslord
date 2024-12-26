@@ -10,6 +10,7 @@ import Services from './components/services/Services'
 import Testimonials from './components/testimonials/Testimonials'
 import Research from './components/research/Research'
 import Certs from './components/certifications/Certs'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const App = () => {
     return (
