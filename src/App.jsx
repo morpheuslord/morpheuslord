@@ -13,6 +13,7 @@ import Certs from './components/certifications/Certs'
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const App = () => {
+    <SpeedInsights/>
     return (
         <>
             <Header />
