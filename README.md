@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/morpheuslord/morpheuslord/blob/main/assets/banner.gif" alt="GitHub Banner" width="800" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Chiranjeevi G</h1>
 <h5 align="center">
   Greetings and welcome to my GitHub profile. I am a highly motivated cybersecurity professional specializing in red team operations and security testing, with a keen focus on Python automation programming. My commitment to this field is unwavering, and I continuously strive to enhance my expertise and knowledge through research and hands-on Python development. Proficient in Python, I possess a robust understanding of website security and application testing, leveraging automation for efficient and effective cybersecurity tasks. I firmly believe in the significance of ongoing learning and skill refinement to maintain a leading edge in the realm of cybersecurity. Beyond my technical acumen, I am an active researcher and blogger, dedicated to producing insightful articles and blog posts on a range of cybersecurity subjects. Thank you for visiting my profile.
