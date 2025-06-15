@@ -27,9 +27,15 @@ const data = [
     },
     {
         id: 4,
-        image: IMG3,
+        image: IMG4,
         title: 'Using Autoencoder for malware detection: A deeper study into auto encoders and their use in cybersecurity.',
-        github: 'https://drive.proton.me/urls/BMXYGV565M#nN7mwioSVbQ5',
+        github: 'https://www.fmdbpub.com/uploads/articles/174600650419444.%20FTSIN-292-2024.pdf',
+    },
+    {
+        id: 5,
+        image: IMG4,
+        title: 'Docker Based Decentralized Vulnerability Assessment with Port Scanning Powered by Artificial Intelligence',
+        github: 'https://www.fmdbpub.com/uploads/articles/174595000296104.%20FTSIN-290-2024.pdf',
     }
 ]
 

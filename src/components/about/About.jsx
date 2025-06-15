@@ -21,12 +21,6 @@ const About = () => {
                 <div className="about__content">
                     <div className="about__cards">
                         <article className='about__card'>
-                            <FaAward className='about__icon' />
-                            <h5>Level</h5>
-                            <small>Entry Level</small>
-                        </article>
-
-                        <article className='about__card'>
                             <TbCertificate className='about__icon' />
                             <h5>Certification</h5>
                             <small>CEH V12,</small>
@@ -41,17 +35,17 @@ const About = () => {
                         <article className='about__card'>
                             <VscFolderLibrary className='about__icon' />
                             <h5>Research</h5>
-                            <small>4 Completed</small>
+                            <small>5 Completed</small>
                         </article>
                         <article className='about__card'>
                             <VscFolderLibrary className='about__icon' />
                             <h5>Work Experience</h5>
-                            <small>11 Months</small>
+                            <small>2+ Years</small>
                         </article>
                     </div>
 
                     <p>
-                        I am an aspiring cybersecurity professional with a robust academic foundation, holding a bachelor's degree in cybersecurity from Jain University, CEH v12, and CND certification. My expertise is showcased in red team operations and security testing, currently applied as an Offensive Security Engineer at Avercyber Technologies, a subsidiary of Averlon Inc. In this role, I focus on securing AWS systems, conducting attack simulations, and mitigating security vulnerabilities. Additionally, I offer freelance programming and technical writing services, creating hacking automation scripts and frameworks in Python, and contributing to blogs and articles on cutting-edge cybersecurity topics. Recognized among the top 1% on TryHackMe, I excel as a bug hunter and penetration tester, with notable skills in website and application security. My career is propelled by an insatiable curiosity and a commitment to excellence, constantly enhancing my skills to stay at the forefront of the cybersecurity field. As a proactive community member, I share my insights through blogging, aiming to elevate cybersecurity awareness and knowledge. I am eager to explore new opportunities, share expertise, and contribute to a more secure digital world.
+                        I am a cybersecurity engineer with a strong foundation in offensive security, holding a BCA in Cybersecurity from Jain University along with CEH v12 and CND certifications. At Cygne Noir Cyber, I work across product development and applied research, contributing to the design and implementation of Python-based security tools and API-driven systems. My responsibilities span from building automation frameworks to supporting client-facing engagements involving secure backend development and threat detection capabilities. Previously at Avercyber Technologies, I focused on red teaming and cloud security assessments, particularly within AWS environments. Beyond my core role, I actively develop custom scripts, publish technical content, and contribute to community learning platforms. I rank among the top 1% on TryHackMe and continue to refine my skills in penetration testing, bug hunting, and secure application architecture.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>

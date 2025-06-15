@@ -10,6 +10,7 @@ import Services from './components/services/Services'
 import Testimonials from './components/testimonials/Testimonials'
 import Research from './components/research/Research'
 import Certs from './components/certifications/Certs'
+import Tech from './components/Tech/Tech'
 
 const App = () => {
     return (
@@ -18,6 +19,7 @@ const App = () => {
             <Nav />
             <About />
             <Experience />
+            <Tech/>
             <Services />
             <Certs />
             <Portfolio />

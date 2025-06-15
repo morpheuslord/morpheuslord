@@ -13,7 +13,7 @@ const Header = () => {
         <div className="upper-header">
           <h5>Hello I'm</h5>
           <AnimatedText />
-          <h5 className="text-light">Fresher Security Engineer</h5>
+          <h5 className="text-light"> Cybersecurity Engineer</h5>
           <CTA />
         </div>
         <div className="lower-header">
