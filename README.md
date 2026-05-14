@@ -23,9 +23,6 @@
 
 <!-- About section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2&width=100%" width="100%"/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=morpheuslord&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d" width="340" alt="Top Languages"/>
-
 **`Cybersecurity Engineer`** at Cygne Noir Cyber with 1+ years of hands-on experience. I bridge the gap between offensive security and modern AI, building automation-first tools and agentic workflows that improve detection, response, and operational efficiency.
 
 <img src="https://skillicons.dev/icons?i=python" height="16"/> &nbsp; Python automation, red team tooling, agent workflows  
