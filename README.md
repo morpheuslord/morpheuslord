@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated capsule header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B20000,1a1a1a&height=200&section=header&text=Chiranjeevi%20G&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Red%20Team%20%7C%20AI%20Security%20Automation&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B20000,1a1a1a&height=200&section=header&text=Chiranjeevi%20G&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%26%20Backend%20Lead%20%7C%20Red%20Team%20%7C%20AI%20Security%20Automation&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B20000&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer+%40+Cygne+Noir+Cyber;Red+Team+%7C+Penetration+Testing+%7C+VAPT;AI-Driven+Security+Automation+%7C+LLM+Workflows;6x+Published+Researcher+%7C+100K%2B+Blog+Reads;Building+Tools+That+Think+Like+Attackers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B20000&center=true&vCenter=true&width=700&lines=Security+Engineer+%26+Backend+Lead+%40+Cygne+Noir+Cyber;Red+Team+%7C+Penetration+Testing+%7C+VAPT;AI-Driven+Security+Automation+%7C+LLM+Workflows;7x+Published+Researcher+%7C+100K%2B+Blog+Reads;Building+Tools+That+Think+Like+Attackers" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Collaborate-B20000?style=flat-square&labelColor=1a1a1a" alt="Collaborate"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Research-6%20Papers-B20000?style=flat-square&labelColor=1a1a1a" alt="Papers"/>
+<img src="https://img.shields.io/badge/Research-7%20Papers-B20000?style=flat-square&labelColor=1a1a1a" alt="Papers"/>
 
 </div>
 
@@ -23,14 +23,14 @@
 
 <!-- About section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2&width=100%" width="100%"/>
-<b>Cybersecurity Engineer<b> 
-at Cygne Noir Cyber and with 2+ years of hands-on experience in the security industry. I bridge the gap between offensive security and modern AI, building automation-first tools and agentic workflows that improve detection, response, and operational efficiency.
+<b>Security Engineer & Backend Lead</b>
+at Cygne Noir Cyber with 3+ years across cybersecurity, backend development, and agentic AI systems. Sole author of a production dating-app backend and the security architecture around it, including autonomous threat detection and response. I lead a frontend team, manage clients directly, and own cloud infrastructure and compliance while building automation-first security tooling.
 
-<img src="https://skillicons.dev/icons?i=python" height="16"/> &nbsp; Python automation, red team tooling, agent workflows  
-<img src="https://skillicons.dev/icons?i=linux" height="16"/> &nbsp; Web app pentesting, exploitation, privilege escalation  
-<img src="https://skillicons.dev/icons?i=aws" height="16"/> &nbsp; AWS & Azure cloud security, Terraform IaC, DevSecOps  
-<img src="https://skillicons.dev/icons?i=docker" height="16"/> &nbsp; LLM integrations (GPT, Llama), agentic pipelines, SBOM  
-<img src="https://skillicons.dev/icons?i=git" height="16"/> &nbsp; Technical researcher — 6 papers, 100K+ blog reads
+<img src="https://skillicons.dev/icons?i=python" height="16"/> &nbsp; Python automation, red team tooling, agent workflows
+<img src="https://skillicons.dev/icons?i=linux" height="16"/> &nbsp; Web app pentesting, exploitation, privilege escalation
+<img src="https://skillicons.dev/icons?i=aws" height="16"/> &nbsp; AWS & Azure cloud security, Terraform IaC, DevSecOps
+<img src="https://skillicons.dev/icons?i=docker" height="16"/> &nbsp; LLM integrations (GPT, Llama, Ollama), agentic pipelines, SBOM
+<img src="https://skillicons.dev/icons?i=git" height="16"/> &nbsp; Technical researcher — 7 papers, 100K+ blog reads
 
 <br/><br/>
 
@@ -42,16 +42,36 @@ at Cygne Noir Cyber and with 2+ years of hands-on experience in the security ind
 </div>
 
 <details>
-<summary><img src="https://img.shields.io/badge/Current-Cybersecurity%20Engineer%20%40%20Cygne%20Noir%20Cyber-B20000?style=for-the-badge&labelColor=1a1a1a" alt="Current"/></summary>
+<summary><img src="https://img.shields.io/badge/Current-Security%20Engineer%20%26%20Backend%20Lead%20%40%20Cygne%20Noir%20Cyber-B20000?style=for-the-badge&labelColor=1a1a1a" alt="Current"/></summary>
 <br/>
 
 **Oct 2024 – Present**
 
-- Develop Python-based backend systems, APIs, and automation tooling across multiple security product verticals
-- Design and implement **agentic AI workflows** and modular control pipelines for threat analysis and security automation
-- Contribute to architectural design for MVP-level projects — scalability, maintainability, clear technical boundaries
-- Lead intern/employee training sessions; represent the firm in university talks
-- Drive sprint management, product lifecycle ownership, and cross-domain research initiatives
+- Main backend engineer and head of engineering for the company's flagship managed security platform — owned technical direction and delivery end to end
+- Sole backend developer for a production dating application (FastAPI, Supabase, Redis, AWS), built to scale horizontally from thousands of concurrent users toward millions
+- Designed the application's security architecture: autonomous threat detection, monitoring, and an automated ban system for real-time protection
+- Primary developer, researcher, and L2 SOC analyst for a single-tenant managed open-source security platform covering code analysis, cloud security, credential-leak detection, container analysis, and EDR + SIEM integration
+- Built **agentic AI workflows** and modular control pipelines for security automation and threat analysis
+- Owned compliance across deployed environments: control mapping, audit readiness, and SOC 2 readiness preparation
+- Ran end-to-end risk assessment with EPSS, CISA KEV, and SSVC-based prioritization so remediation focused on real business risk
+- Owned AWS and Azure infrastructure: deployment, cost optimization, Cloudflare security and DNS; cost simulations at million-user scale found S3 and network inefficiencies projected to cut cloud costs by 90%
+- Led a 3-person frontend team through the full project lifecycle; introduced sprint management and product-lifecycle planning
+- Managed client relationships directly; represented the firm in university talks and ran intern and employee training
+
+</details>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Current-Full%20Stack%20Engineer%20(Part--time)%20%40%20Golden%20Fork%20Ventures-B20000?style=for-the-badge&labelColor=1a1a1a" alt="Golden Fork"/></summary>
+<br/>
+
+**Feb 2026 – Present**
+
+- Building and maintaining the software Golden Fork Ventures needs for compliance and day-to-day operations, remotely alongside my primary role
+- Deploying these systems on custom on-premise hardware: provisioning, networking, and ongoing upkeep
+- Running self-hosted server infrastructure on Proxmox VE with per-service LXC/VM isolation and secure remote access
+- Keeping compliance-critical services reliable and audit-ready through monitoring, updates, and maintenance
 
 </details>
 
@@ -63,8 +83,10 @@ at Cygne Noir Cyber and with 2+ years of hands-on experience in the security ind
 
 **Mar 2024 – Oct 2024**
 
-- Designed proof-of-concept implementations for security research and experimental tooling
-- Developed custom automation scripts for testing, monitoring, and data processing
+- Built proof-of-concept implementations for security research, automation workflows, and experimental tooling
+- Wrote custom automation scripts for testing, monitoring, and data processing
+- Built a complete point-of-sale system for a restaurant venture, deployed on a local system with edge networking adjustments
+- Built and deployed a low-cost design studio site for a designer selling third-party products on Amazon
 - Provided technical writing and review for research papers and documentation
 
 </details>
@@ -72,29 +94,16 @@ at Cygne Noir Cyber and with 2+ years of hands-on experience in the security ind
 <br/>
 
 <details>
-<summary><img src="https://img.shields.io/badge/2023–2024-Offensive%20Security%20Engineer%20Intern%20%40%20Avercyber-555?style=for-the-badge&labelColor=1a1a1a" alt="Intern"/></summary>
+<summary><img src="https://img.shields.io/badge/2023–2024-Security%20Engineer%20Intern%20%40%20Avercyber-555?style=for-the-badge&labelColor=1a1a1a" alt="Intern"/></summary>
 <br/>
 
-**Jul 2023 – Mar 2024**
+**May 2023 – Mar 2024** &nbsp;·&nbsp; Cybersecurity, then Offensive Security
 
-- Cloud security assessments across AWS and Azure — misconfigurations and exposure risks
-- Built security-focused **Infrastructure-as-Code** environments using Terraform
-- Conducted vulnerability research and penetration testing on infrastructure and application components
-- Researched Linux initialization, system hardening, and supply-chain security tooling (SBOM — Trivy, Syft)
-
-</details>
-
-<br/>
-
-<details>
-<summary><img src="https://img.shields.io/badge/2023-Cybersecurity%20Engineer%20Intern%20%40%20Avercyber-555?style=for-the-badge&labelColor=1a1a1a" alt="First Intern"/></summary>
-<br/>
-
-**May 2023 – Jul 2023**
-
-- Developed Python-based red team and security automation tools
-- Assisted with vulnerability assessments, reporting, and remediation validation
-- Researched AWS security rules and early-stage AI applications in cybersecurity
+- Ran cloud security assessments across AWS and Azure — misconfigurations and exposure risks
+- Built security-focused **Infrastructure-as-Code** environments using Terraform for testing and research
+- Did vulnerability research and penetration testing on infrastructure and application components
+- Wrote Python red-team and security automation tools to support assessment workflows
+- Researched Linux initialization, system hardening, supply-chain security tooling (SBOM — Trivy, Syft), AWS security rules, and early-stage AI applications in cybersecurity
 
 </details>
 
@@ -126,7 +135,7 @@ at Cygne Noir Cyber and with 2+ years of hands-on experience in the security ind
 &nbsp;
 <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20Terraform-B20000?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a1a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Research-LaTeX%20%7C%206%20Papers-B20000?style=for-the-badge&logo=latex&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Research-LaTeX%20%7C%207%20Papers-B20000?style=for-the-badge&logo=latex&logoColor=white&labelColor=1a1a1a"/>
 
 </div>
 
@@ -143,7 +152,8 @@ at Cygne Noir Cyber and with 2+ years of hands-on experience in the security ind
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**GPT-Vuln-Analyzer**](https://github.com/morpheuslord/GPT_Vuln-analyzer) | `Python` `GPT` `Llama2` `PaLM` | AI-assisted vulnerability analysis with DNS recon and subdomain enumeration across multiple LLM backends |
+| [**PICOTTY**](https://github.com/morpheuslord/PICOTTY) | `CircuitPython` `Python` `Embedded` | Networked serial console for fleets of headless machines: Pi Pico nodes with W5100S Ethernet and USB HID injection, a Pi Zero 2 W hub with live WebSocket streaming, YAML runbooks, and OTA firmware updates with rollback protection |
+| [**GPT-Vuln-Analyzer**](https://github.com/morpheuslord/GPT_Vuln-analyzer) | `Python` `GPT` `Llama2` `Ollama` | AI-assisted vulnerability analysis with DNS recon and subdomain enumeration across multiple LLM backends |
 | [**HackBot**](https://github.com/morpheuslord/HackBot) | `Python` `GPT` | LLM-powered assistant for security analysis, code inspection, and scan result interpretation |
 | [**CVE-LLM-Dataset**](https://github.com/morpheuslord/CVE-llm_dataset) | `Dataset` `NLP` | Structured CVE dataset for training and evaluating LLMs on vulnerability intelligence |
 | [**Startup-SBOM**](https://github.com/morpheuslord/Startup-SBOM) | `Python` `Linux` `SBOM` | Reverse-engineers Linux boot to produce SBOM-style startup and persistence vector output |
@@ -166,11 +176,12 @@ at Cygne Noir Cyber and with 2+ years of hands-on experience in the security ind
 <br/>
 
 <details>
-<summary><img src="https://img.shields.io/badge/Academic-6%20Peer--Reviewed%20Papers-B20000?style=for-the-badge&labelColor=1a1a1a" alt="Papers"/></summary>
+<summary><img src="https://img.shields.io/badge/Academic-7%20Peer--Reviewed%20Papers-B20000?style=for-the-badge&labelColor=1a1a1a" alt="Papers"/></summary>
 <br/>
 
 | Domain | Title | Venue |
 |--------|-------|-------|
+| Cybersecurity & Anomaly Detection | [Hybrid Quantum-Classical Neural Network Incorporating Attention Mechanisms for Anomaly Detection](https://github.com/morpheuslord) | Springer |
 | Cybersecurity & ML | [API-Based Network Scanning](https://github.com/morpheuslord) | Research Paper |
 | Cybersecurity & ML | [AI-Based Enumeration and Exploit Suggester](https://github.com/morpheuslord) | JETIR |
 | Cybersecurity & ML | [AI in Action: Exploiting the Nexus of Cybersecurity](https://github.com/morpheuslord) | Research Paper |
