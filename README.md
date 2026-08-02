@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated capsule header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B20000,1a1a1a&height=200&section=header&text=Chiranjeevi%20G&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%26amp%3B%20Backend%20Lead%20%7C%20Red%20Team%20%7C%20AI%20Security%20Automation&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:7a0000,72:B20000,100:1a1a1a&height=230&section=header&text=Chiranjeevi%20G&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Security%20Engineer%20%26amp%3B%20Backend%20Lead%20%7C%20Red%20Team%20%7C%20AI%20Security%20Automation&descSize=17&descAlignY=56&animation=fadeIn&stroke=B20000&strokeWidth=1" width="100%"/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B20000&center=true&vCenter=true&width=700&lines=Security+Engineer+%26+Backend+Lead+%40+Cygne+Noir+Cyber;Red+Team+%7C+Penetration+Testing+%7C+VAPT;AI-Driven+Security+Automation+%7C+LLM+Workflows;7x+Published+Researcher+%7C+100K%2B+Blog+Reads;Building+Tools+That+Think+Like+Attackers" alt="Typing SVG" />
@@ -23,13 +23,14 @@
 
 <!-- About section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2&width=100%" width="100%"/>
-<b>Security Engineer & Backend Lead</b>
-at Cygne Noir Cyber with 3+ years across cybersecurity, backend development, and agentic AI systems. Sole author of a production dating-app backend and the security architecture around it, including autonomous threat detection and response. I lead a frontend team, manage clients directly, and own cloud infrastructure and compliance while building automation-first security tooling.
+<b>Security Engineer &amp; Backend Lead</b> at Cygne Noir Cyber with 3+ years across cybersecurity, backend development, and agentic AI systems. Sole author of a production dating-app backend and the security architecture around it, including autonomous threat detection and response. I lead a frontend team, manage clients directly, and own cloud infrastructure and compliance while building automation-first security tooling.
 
-<img src="https://skillicons.dev/icons?i=python" height="16"/> &nbsp; Python automation, red team tooling, agent workflows
-<img src="https://skillicons.dev/icons?i=linux" height="16"/> &nbsp; Web app pentesting, exploitation, privilege escalation
-<img src="https://skillicons.dev/icons?i=aws" height="16"/> &nbsp; AWS & Azure cloud security, Terraform IaC, DevSecOps
-<img src="https://skillicons.dev/icons?i=docker" height="16"/> &nbsp; LLM integrations (GPT, Llama, Ollama), agentic pipelines, SBOM
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python" height="16"/> &nbsp; Python automation, red team tooling, agent workflows<br/>
+<img src="https://skillicons.dev/icons?i=linux" height="16"/> &nbsp; Web app pentesting, exploitation, privilege escalation<br/>
+<img src="https://skillicons.dev/icons?i=aws" height="16"/> &nbsp; AWS &amp; Azure cloud security, Terraform IaC, DevSecOps<br/>
+<img src="https://skillicons.dev/icons?i=docker" height="16"/> &nbsp; LLM integrations (GPT, Llama, Ollama), agentic pipelines, SBOM<br/>
 <img src="https://skillicons.dev/icons?i=git" height="16"/> &nbsp; Technical researcher — 7 papers, 100K+ blog reads
 
 <br/><br/>
@@ -301,4 +302,4 @@ at Cygne Noir Cyber with 3+ years across cybersecurity, backend development, and
 <br/>
 
 <!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B20000,1a1a1a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,55:7a0000,100:B20000&height=130&section=footer" width="100%"/>
