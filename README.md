@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated capsule header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B20000,1a1a1a&height=200&section=header&text=Chiranjeevi%20G&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%26%20Backend%20Lead%20%7C%20Red%20Team%20%7C%20AI%20Security%20Automation&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B20000,1a1a1a&height=200&section=header&text=Chiranjeevi%20G&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%26amp%3B%20Backend%20Lead%20%7C%20Red%20Team%20%7C%20AI%20Security%20Automation&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B20000&center=true&vCenter=true&width=700&lines=Security+Engineer+%26+Backend+Lead+%40+Cygne+Noir+Cyber;Red+Team+%7C+Penetration+Testing+%7C+VAPT;AI-Driven+Security+Automation+%7C+LLM+Workflows;7x+Published+Researcher+%7C+100K%2B+Blog+Reads;Building+Tools+That+Think+Like+Attackers" alt="Typing SVG" />
