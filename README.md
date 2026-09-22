@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated capsule header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:7a0000,72:B20000,100:1a1a1a&height=230&section=header&text=Chiranjeevi%20G&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Security%20Engineer%20%26amp%3B%20Backend%20Lead%20%7C%20Red%20Team%20%7C%20AI%20Security%20Automation&descSize=17&descAlignY=56&animation=fadeIn&stroke=B20000&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:7a0000,72:B20000,100:1a1a1a&height=230&section=header&text=Chiranjeevi%20G&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Lead%20Security%20Engineer%20%7C%20Cloud%20Security%20%7C%20DevSecOps%20%7C%20AI%20Security%20Automation&descSize=17&descAlignY=56&animation=fadeIn&stroke=B20000&strokeWidth=1" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B20000&center=true&vCenter=true&width=700&lines=Security+Engineer+%26+Backend+Lead+%40+Cygne+Noir+Cyber;Red+Team+%7C+Penetration+Testing+%7C+VAPT;AI-Driven+Security+Automation+%7C+LLM+Workflows;7x+Published+Researcher+%7C+100K%2B+Blog+Reads;Building+Tools+That+Think+Like+Attackers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B20000&center=true&vCenter=true&width=700&lines=Lead+Security+Engineer+%40+Cygne+Noir+Cyber;Cloud+Security+%7C+DevSecOps+%7C+VAPT;AI-Driven+Security+Automation+%7C+LLM+Workflows;7x+Published+Researcher+%7C+100K%2B+Blog+Reads;Building+Tools+That+Think+Like+Attackers" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 <!-- About section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2&width=100%" width="100%"/>
-<b>Security Engineer &amp; Backend Lead</b> at Cygne Noir Cyber with 3+ years across cybersecurity, backend development, and agentic AI systems. Sole author of a production dating-app backend and the security architecture around it, including autonomous threat detection and response. I lead a frontend team, manage clients directly, and own cloud infrastructure and compliance while building automation-first security tooling.
+<b>Lead Security Engineer</b> at Cygne Noir Cyber with 3+ years across cybersecurity, backend development, and agentic AI systems. Sole author of a production dating-app backend and the security architecture around it, including autonomous threat detection and response. I hold sign-off on security architecture and risk acceptance, own SOC 2 readiness and cloud security across client deployments, and build automation-first security tooling.
 
 <br/>
 
@@ -43,10 +43,27 @@
 </div>
 
 <details>
-<summary><img src="https://img.shields.io/badge/Current-Security%20Engineer%20%26%20Backend%20Lead%20%40%20Cygne%20Noir%20Cyber-B20000?style=for-the-badge&labelColor=1a1a1a" alt="Current"/></summary>
+<summary><img src="https://img.shields.io/badge/Current-Lead%20Security%20Engineer%20%40%20Cygne%20Noir%20Cyber-B20000?style=for-the-badge&labelColor=1a1a1a" alt="Current"/></summary>
 <br/>
 
-**Oct 2024 – Present**
+**Oct 2026 – Present**
+
+- Hold sign-off on security architecture, tooling selection, and risk acceptance as lead security researcher and advisor for the managed security platform
+- Own the SOC 2 readiness program across all deployed environments: control mapping, gap remediation, and compliance automation evaluation
+- Own cloud security across AWS and Azure client deployments: per-client account isolation, IAM boundaries, Cloudflare security and DNS, ongoing posture management
+- Own CI/CD and production DevSecOps end to end — which gates run (Semgrep, Gitleaks, Trivy, Checkov, Syft), where they run, and what blocks a merge or deploy
+- Hire engineers, manage freelancers, and advise the founder on team performance, promotions, and role changes
+- Trained 7 security trainees on the platform's scanner output, DefectDojo triage workflow, and L2 SOC escalation path
+
+</details>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/2024–2026-Security%20Engineer%20%26%20Backend%20Lead%20%40%20Cygne%20Noir%20Cyber-B20000?style=for-the-badge&labelColor=1a1a1a" alt="Security Engineer & Backend Lead"/></summary>
+<br/>
+
+**Oct 2024 – Sept 2026**
 
 - Main backend engineer and head of engineering for the company's flagship managed security platform — owned technical direction and delivery end to end
 - Sole backend developer for a production dating application (FastAPI, Supabase, Redis, AWS), built to scale horizontally from thousands of concurrent users toward millions
